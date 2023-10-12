@@ -1,4 +1,4 @@
-package ru.nuraev.homeworks.homeworks3;
+package ru.nuraev.homeworks.homework3;
 
 import java.util.Scanner;
 
